@@ -1,3 +1,7 @@
+#creating empty Array
+
+array = [] 
+
 #creating an Array named "puppies"
 
 puppies = ["bulldog", "terrier", "poodle"]
