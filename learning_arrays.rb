@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 #creating empty Array
 
 array = [] 
 
+=======
+>>>>>>> 02ca247bc175a6dea2b1c09c892e894fc51aac3e
 #creating an Array named "puppies"
 
 puppies = ["bulldog", "terrier", "poodle"]
